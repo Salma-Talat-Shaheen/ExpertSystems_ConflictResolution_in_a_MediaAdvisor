@@ -1,6 +1,11 @@
-# Conflict Resolution in a Media Advisor Expert System
+### **Conflict Resolution in a Media Advisor Expert System**
 
 ---
+**Conflict resolution in an expert system** refers to the process of managing situations where multiple rules are triggered at the same time, each suggesting different actions or outcomes. The system must determine which action to prioritize by evaluating the rules based on predefined criteria, such as priority levels, relevance, or specific conditions, ensuring that the most appropriate decision is made.
+
+<p align="center">
+  <img src="https://www.wellable.co/blog/wp-content/uploads/2023/08/7-Effective-Conflict-Resolution-Techniques-In-The-Workplace-2.png" width="400"/>
+</p>
 
 ## Project Overview
 
