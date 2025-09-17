@@ -52,6 +52,6 @@ Medium(medium='role-play exercises', priority=2)
 # Conflict Resolver:
 # Sort mediums by priority and select the highest
 
----
+Final Recommendation: lecture - tutorial
 
-**Author:** Salma Talat Shaheen 
+
